@@ -31,7 +31,7 @@ about:
   home: https://github.com/errata-ai/Google
   license: MIT
   license_family: MIT
-  license_file: LICENSE
+  license_file: LICENSE-vale-Google-{{ version }}
   summary: Google rules for vale grammar and style checker
 
 extra:
