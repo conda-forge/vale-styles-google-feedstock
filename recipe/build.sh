@@ -7,5 +7,3 @@ cp "${RECIPE_DIR}/.vale.ini" .vale.ini
 vale sync
 vale ls-config
 vale ls-dirs
-
-cp "LICENSE-vale-Google-0.6.0" LICENSE
