@@ -1,4 +1,4 @@
-{% set version = "0.6.3" %}
+{% set version = "0.7.0" %}
 
 package:
   name: vale-styles-google
@@ -8,7 +8,7 @@ source:
   - folder: Google
     fn: vale-Google-{{ version }}.zip
     url: https://github.com/errata-ai/Google/releases/download/v{{ version }}/Google.zip
-    sha256: 2d61eb8ec4b749d60097c41eb12f81385aa9bfdc04e42875b70c6c3bbc094088
+    sha256: dddb3dca035a067fe9ab13a1d8d8f89cb63e8b83ab4cf1934a935d60cd91d697
   - fn: LICENSE-vale-Google-{{ version }}
     url: https://raw.githubusercontent.com/errata-ai/Google/v{{ version }}/LICENSE
     sha256: f661986be23c000812a439e03dfed8d16ff23117e8d1219fc2beb7cd01393640
