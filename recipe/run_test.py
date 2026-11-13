@@ -60,11 +60,11 @@ EXPECT_JSON = """
           3,
           13
         ],
-        "Check": "Microsoft.Headings",
+        "Check": "Google.Headings",
         "Description": "",
-        "Link": "https://learn.microsoft.com/en-us/style-guide/capitalization",
+        "Link": "https://developers.google.com/style/capitalization#capitalization-in-titles-and-headings",
         "Message": "'hello world' should use sentence-style capitalization.",
-        "Severity": "suggestion",
+        "Severity": "warning",
         "Match": "hello world",
         "Line": 2
       }
